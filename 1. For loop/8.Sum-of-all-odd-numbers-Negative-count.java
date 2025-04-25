@@ -1,6 +1,6 @@
 //Syzu 4/25/25
 
-//Question 8: "Sum of Odd Numbers (Negative Count)"
+// Question 8: "Sum of Odd Numbers (Negative Count)"
 // Instruction:
 // Create a loop that subtracts the odd numbers from 1 to 10 from a variable count (starting at 0). The count variable should be decremented by the odd numbers.
 
