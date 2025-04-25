@@ -17,6 +17,6 @@ public class LoopTest {
   }
 }
 // My Explanation:
-//We assign the variable int num with the value of 7. The loop starts with int i = 1, and the condition i <= 10 means the loop will run until i reaches 10. 
-//For each i, we print the value of num, concatenate "x", the loop index i, and then the result of num * i. The output will display the multiplication table for the number 7, starting from 7x1 = 7 to 7x10 = 70.
+// We assign the variable int num with the value of 7. The loop starts with int i = 1, and the condition i <= 10 means the loop will run until i reaches 10. 
+// For each i, we print the value of num, concatenate "x", the loop index i, and then the result of num * i. The output will display the multiplication table for the number 7, starting from 7x1 = 7 to 7x10 = 70.
 
