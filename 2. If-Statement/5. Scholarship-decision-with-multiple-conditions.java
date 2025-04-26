@@ -33,4 +33,4 @@ public class looptest {
 // So the 2 conditions is true so this conditions will be printed, But again fyi | |operator function is that either of the 2 conditions is true, 
 // It will still be printed unlike the && operator that if either conditions turns to be false then it will not be printed.
 // And if both the first and second conditions are false, only then the final else block would run
-Otherwise it will print else which has "No scholarship"
+// Otherwise it will print else which has "No scholarship"
