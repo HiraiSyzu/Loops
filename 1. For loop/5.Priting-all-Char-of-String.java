@@ -16,5 +16,5 @@ public class LoopTest {
     }
   }
 }
-// Your Explanation:
-// The loop runs from 0 to the length of the string (8 characters). The charAt(i) method is used to access each character by its index. The loop will print each character of the string "Computer" on a new line.
+// My Explanation:
+// The loop runs from 0 to the length of the string (8 characters). The charAt(i) method is used to access each character by its index. The loop will print each character(Letter) of the string "Computer" on a new line.
