@@ -12,5 +12,5 @@ for (int i = 1; i <= 5; i++) {
 }
 
 // My Explanation:
-// This loop runs from 1 to 5. We use the if statement to check if a number is even by evaluating i % 2 == 0. If the number is even, it is printed; otherwise, it is skipped. 
+// This loop runs from 1 to 5. We will use the if statement to check if a number is even by using  i % 2 == 0. If the number is even, it is printed; if not, it is skipped. 
 // The result will be the even numbers 2 and 4.
