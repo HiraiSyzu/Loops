@@ -13,5 +13,5 @@
   }
 }
 // My Explanation
-//We initiate the for loop with int i = 1, and the loop will continue while i <= 5. The loop prints the value of i each time it runs. Once i exceeds 5, the loop will stop. 
-//The output will print the numbers 1 through 5.
+//We initiate the for loop with int i = 1, and the loop will continue while i <= 5. The loop prints the value of i each time it runs. Once i reached 5, the loop will stop. 
+//The output will print the num 1 to 5.
