@@ -43,10 +43,11 @@ public class looptest {
     System.out.println("The total numbers divisible by 5 is : " + numberFive); 
   }
 }
-the output of this is
-The total numbers divisible by both 3 and 5 is: 3
-The total numbers divisible by 3 is: 13 
-The total numbers divisible by 5 is: 7 
+
+// the output of this is
+// The total numbers divisible by both 3 and 5 is: 3
+// The total numbers divisible by 3 is: 13 
+// The total numbers divisible by 5 is: 7 
 
 // My Explanation
 
